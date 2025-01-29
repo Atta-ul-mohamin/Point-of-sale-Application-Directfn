@@ -1,0 +1,599 @@
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Login_Form.resources
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.MainMenuForm.resources
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Register_Form.resources
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POSProject.csproj.GenerateResource.Cache
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.exe.licenses
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.exe
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.pdb
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\testapp.exe.config
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\testapp.exe
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\testapp.pdb
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.DemoData.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Items_Screen.resources
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\stdole.dll
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.CrystalReportViewerForm.resources
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\crdb_adoplus.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\POSProject.csprojResolveAssemblyReference.cache
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YOGA\Desktop\testapp\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.BillingScreen.resources
+C:\Users\YOGA\Desktop\testapp\testapp\obj\Debug\testapp.Test.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\testapp.exe.config
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\testapp.pdb
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.DemoData.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\stdole.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POSProject.csprojResolveAssemblyReference.cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.BillingScreen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.CrystalReportViewerForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Items_Screen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Login_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.MainMenuForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Register_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.Test.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\POSProject.csproj.GenerateResource.Cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.exe.licenses
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp\testapp\obj\Debug\testapp.pdb
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POSProject.csprojResolveAssemblyReference.cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.BillingScreen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.CrystalReportViewerForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Items_Screen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Login_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.MainMenuForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Register_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.Test.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\POSProject.csproj.GenerateResource.Cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.exe.licenses
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.pdb
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\testapp.exe.config
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\testapp.pdb
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.DemoData.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\stdole.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\12 november backup where i just used simple grid for billing sceen\testapp - Copy   sample\testapp\obj\Debug\testapp.billingGrid.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\testapp.exe.config
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\testapp.pdb
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.DemoData.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\stdole.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POSProject.csprojResolveAssemblyReference.cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.billingGrid.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.BillingScreen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.CrystalReportViewerForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Items_Screen.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Login_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.MainMenuForm.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Register_Form.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.Test.resources
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\POSProject.csproj.GenerateResource.Cache
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.exe.licenses
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.exe
+C:\Users\YOGA\Documents\ADO.NET\POINT OF SALE APPLICATION\project backup\testapp original\testapp\obj\Debug\testapp.pdb
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\testapp.exe.config
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\testapp.exe
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\testapp.pdb
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.DemoData.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\stdole.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POSProject.csprojResolveAssemblyReference.cache
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.billingGrid.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.BillingScreen.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.CrystalReportViewerForm.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Items_Screen.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Login_Form.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.MainMenuForm.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POINT_OF_SALE_APPLICATION.Register_Form.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.Test.resources
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\POSProject.csproj.GenerateResource.Cache
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.exe.licenses
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.exe
+C:\Users\YOGA\Documents\DirectFN intern ADO.NET\POINT OF SALE APPLICATION\testapp original - 26Nov2024\testapp\obj\Debug\testapp.pdb
